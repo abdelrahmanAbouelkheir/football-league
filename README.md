@@ -1,8 +1,8 @@
 # football-league
     The aim of the project is to implement a system that manages the matches played in any sport as well
     as the fan attendance to these matches.
-##Description
- ###Systems Requirements
+## Description
+ ### Systems Requirements
 This section describes the different requirements that the platform has to include.
 1.1 Sports Association Manager
 First of all, the association manager (which has an ID and name) can manage (create, edit or delete) the
