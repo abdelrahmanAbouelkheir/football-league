@@ -5,14 +5,14 @@
  ### Systems Requirements
 This section describes the different requirements that the platform has to include.
 1. Sports Association Manager:   
-  + First of all, the association manager (which has an ID and name) can manage (create, edit or delete) the
+   + First of all, the association manager (which has an ID and name) can manage (create, edit or delete) the
 matches that will be played by the different clubs.
-2 Matches:   
-  + Matches will be played by exactly two Clubs. One of them is considered the host of the match. Each
+2. Matches:   
+   + Matches will be played by exactly two Clubs. One of them is considered the host of the match. Each
 game has an ID, starting time, ending time and allowed number of attendees. Also, each match will be
 hosted on exactly one stadium.
 3. Clubs:   
-  + Each club (which has an ID, name and location) can play many matches through the season. The club
+   + Each club (which has an ID, name and location) can play many matches through the season. The club
 will also have a representative (with a name and ID). who will be responsible for asking for the permission
 to host the matches played by the club he is representing when the club is the host of that match.
 3. Stadiums:   
