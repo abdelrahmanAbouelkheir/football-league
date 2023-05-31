@@ -1,5 +1,5 @@
 # football-league
-    The aim of the project is to implement a system that manages the matches played in any sport as well
+    The aim of the project is to implement a system that manages the matches played in a football league as well
     as the fan attendance to these matches.
 ## Description
  ### System Components
