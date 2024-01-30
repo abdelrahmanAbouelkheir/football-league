@@ -281,3 +281,10 @@ of all played matches sorted descendingly by the total number of tickets they ha
     + description: returns a table containing the name of the host club and the name of the guest club
 of all matches that are requested to be hosted on the given stadium sent by the representative of
 the given club.
+
+## Authors
+
+-   [@mahmoudaboueleneen](https://github.com/mahmoudaboueleneen)
+-   [@Ahmedsherif74](https://github.com/Ahmedsherif74)
+-   [@abdelrahmanAbouelkheir](https://github.com/abdelrahmanAbouelkheir)
+
